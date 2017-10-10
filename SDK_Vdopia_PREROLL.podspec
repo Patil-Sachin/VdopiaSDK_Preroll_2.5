@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-s.name         = "Vdopia_PREROLL"
+s.name         = "SDK_Vdopia_PREROLL"
 s.version      = "2.5.0"
 s.summary      = "A vdopiasdk mobile advertising sdk"
 s.description  = "vdopia mobile advertising SDK gives developers a fast and convenient way to monetize their apps."
